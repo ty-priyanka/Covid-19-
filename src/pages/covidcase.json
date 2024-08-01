@@ -1,0 +1,226 @@
+{
+    "India": {
+        "TotalCases": 45000000,
+        "ActiveCases": 700000,
+        "Recovered": 43000000,
+        "Deaths": 1200000,
+        "States": {
+            "Andhra Pradesh": {
+                "TotalCases": 2500000,
+                "ActiveCases": 30000,
+                "Recovered": 2450000,
+                "Deaths": 20000
+            },
+            "Arunachal Pradesh": {
+                "TotalCases": 55000,
+                "ActiveCases": 500,
+                "Recovered": 54000,
+                "Deaths": 500
+            },
+            "Assam": {
+                "TotalCases": 700000,
+                "ActiveCases": 10000,
+                "Recovered": 680000,
+                "Deaths": 10000
+            },
+            "Bihar": {
+                "TotalCases": 800000,
+                "ActiveCases": 15000,
+                "Recovered": 780000,
+                "Deaths": 5000
+            },
+            "Chhattisgarh": {
+                "TotalCases": 950000,
+                "ActiveCases": 20000,
+                "Recovered": 920000,
+                "Deaths": 10000
+            },
+            "Goa": {
+                "TotalCases": 250000,
+                "ActiveCases": 5000,
+                "Recovered": 240000,
+                "Deaths": 5000
+            },
+            "Gujarat": {
+                "TotalCases": 1200000,
+                "ActiveCases": 25000,
+                "Recovered": 1150000,
+                "Deaths": 25000
+            },
+            "Haryana": {
+                "TotalCases": 950000,
+                "ActiveCases": 20000,
+                "Recovered": 920000,
+                "Deaths": 10000
+            },
+            "Himachal Pradesh": {
+                "TotalCases": 300000,
+                "ActiveCases": 5000,
+                "Recovered": 290000,
+                "Deaths": 5000
+            },
+            "Jharkhand": {
+                "TotalCases": 400000,
+                "ActiveCases": 10000,
+                "Recovered": 380000,
+                "Deaths": 10000
+            },
+            "Karnataka": {
+                "TotalCases": 4000000,
+                "ActiveCases": 60000,
+                "Recovered": 3880000,
+                "Deaths": 60000
+            },
+            "Kerala": {
+                "TotalCases": 4500000,
+                "ActiveCases": 50000,
+                "Recovered": 4400000,
+                "Deaths": 50000
+            },
+            "Madhya Pradesh": {
+                "TotalCases": 1000000,
+                "ActiveCases": 25000,
+                "Recovered": 970000,
+                "Deaths": 25000
+            },
+            "Maharashtra": {
+                "TotalCases": 6000000,
+                "ActiveCases": 100000,
+                "Recovered": 5800000,
+                "Deaths": 200000
+            },
+            "Manipur": {
+                "TotalCases": 150000,
+                "ActiveCases": 2000,
+                "Recovered": 146000,
+                "Deaths": 2000
+            },
+            "Meghalaya": {
+                "TotalCases": 95000,
+                "ActiveCases": 1000,
+                "Recovered": 93000,
+                "Deaths": 1000
+            },
+            "Mizoram": {
+                "TotalCases": 70000,
+                "ActiveCases": 800,
+                "Recovered": 68800,
+                "Deaths": 400
+            },
+            "Nagaland": {
+                "TotalCases": 62000,
+                "ActiveCases": 700,
+                "Recovered": 61000,
+                "Deaths": 300
+            },
+            "Odisha": {
+                "TotalCases": 1250000,
+                "ActiveCases": 30000,
+                "Recovered": 1200000,
+                "Deaths": 20000
+            },
+            "Punjab": {
+                "TotalCases": 950000,
+                "ActiveCases": 20000,
+                "Recovered": 920000,
+                "Deaths": 10000
+            },
+            "Rajasthan": {
+                "TotalCases": 1200000,
+                "ActiveCases": 25000,
+                "Recovered": 1150000,
+                "Deaths": 25000
+            },
+            "Sikkim": {
+                "TotalCases": 40000,
+                "ActiveCases": 500,
+                "Recovered": 39000,
+                "Deaths": 500
+            },
+            "Tamil Nadu": {
+                "TotalCases": 3800000,
+                "ActiveCases": 40000,
+                "Recovered": 3720000,
+                "Deaths": 40000
+            },
+            "Telangana": {
+                "TotalCases": 1800000,
+                "ActiveCases": 30000,
+                "Recovered": 1750000,
+                "Deaths": 20000
+            },
+            "Tripura": {
+                "TotalCases": 85000,
+                "ActiveCases": 1000,
+                "Recovered": 83000,
+                "Deaths": 1000
+            },
+            "Uttar Pradesh": {
+                "TotalCases": 2100000,
+                "ActiveCases": 40000,
+                "Recovered": 2040000,
+                "Deaths": 20000
+            },
+            "Uttarakhand": {
+                "TotalCases": 350000,
+                "ActiveCases": 7000,
+                "Recovered": 340000,
+                "Deaths": 3000
+            },
+            "West Bengal": {
+                "TotalCases": 1800000,
+                "ActiveCases": 30000,
+                "Recovered": 1750000,
+                "Deaths": 20000
+            },
+            "Andaman and Nicobar Islands": {
+                "TotalCases": 10000,
+                "ActiveCases": 200,
+                "Recovered": 9700,
+                "Deaths": 100
+            },
+            "Chandigarh": {
+                "TotalCases": 70000,
+                "ActiveCases": 1000,
+                "Recovered": 68000,
+                "Deaths": 1000
+            },
+            "Dadra and Nagar Haveli and Daman and Diu": {
+                "TotalCases": 15000,
+                "ActiveCases": 200,
+                "Recovered": 14700,
+                "Deaths": 100
+            },
+            "Lakshadweep": {
+                "TotalCases": 5000,
+                "ActiveCases": 100,
+                "Recovered": 4800,
+                "Deaths": 100
+            },
+            "Delhi": {
+                "TotalCases": 1500000,
+                "ActiveCases": 25000,
+                "Recovered": 1450000,
+                "Deaths": 25000
+            },
+            "Puducherry": {
+                "TotalCases": 150000,
+                "ActiveCases": 2000,
+                "Recovered": 146000,
+                "Deaths": 2000
+            },
+            "Ladakh": {
+                "TotalCases": 20000,
+                "ActiveCases": 300,
+                "Recovered": 19500,
+                "Deaths": 200
+            },
+            "Jammu and Kashmir": {
+                "TotalCases": 400000,
+                "ActiveCases": 7000,
+                "Recovered": 390000,
+                "Deaths": 3000
+            }
+        }
+    }
+}

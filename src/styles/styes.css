@@ -1,0 +1,15 @@
+.main_div{
+    height:800px;
+    width:100%;
+    justify-content: center;
+    display:flex ;
+    padding-top: 100px;
+   
+    
+}
+.disabled{
+    width:30%;
+}
+.btn-success{
+    width:30%;
+}

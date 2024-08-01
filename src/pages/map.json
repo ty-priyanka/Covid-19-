@@ -1,0 +1,115 @@
+{
+    "Andhra Pradesh": {
+      "latitude": 15.9129,
+      "longitude": 79.73999
+    },
+    "Arunachal Pradesh": {
+      "latitude": 27.0943,
+      "longitude": 93.6367
+    },
+    "Assam": {
+      "latitude": 26.2006,
+      "longitude": 92.9376
+    },
+    "Bihar": {
+      "latitude": 25.0961,
+      "longitude": 85.3131
+    },
+    "Chhattisgarh": {
+      "latitude": 21.2787,
+      "longitude": 81.8661
+    },
+    "Goa": {
+      "latitude": 15.2993,
+      "longitude": 74.1240
+    },
+    "Gujarat": {
+      "latitude": 22.2587,
+      "longitude": 71.1924
+    },
+    "Haryana": {
+      "latitude": 29.0588,
+      "longitude": 76.0856
+    },
+    "Himachal Pradesh": {
+      "latitude": 31.1048,
+      "longitude": 77.1734
+    },
+    "Jharkhand": {
+      "latitude": 23.6102,
+      "longitude": 85.2799
+    },
+    "Karnataka": {
+      "latitude": 15.3173,
+      "longitude": 75.7139
+    },
+    "Kerala": {
+      "latitude": 10.8505,
+      "longitude": 76.2711
+    },
+    "Madhya Pradesh": {
+      "latitude": 23.4734,
+      "longitude": 77.2900
+    },
+    "Maharashtra": {
+      "latitude": 19.6633,
+      "longitude": 75.3223
+    },
+    "Manipur": {
+      "latitude": 24.6637,
+      "longitude": 93.9063
+    },
+    "Meghalaya": {
+      "latitude": 25.4670,
+      "longitude": 91.3662
+    },
+    "Mizoram": {
+      "latitude": 23.1645,
+      "longitude": 92.9376
+    },
+    "Nagaland": {
+      "latitude": 26.1584,
+      "longitude": 94.5624
+    },
+    "Odisha": {
+      "latitude": 20.9517,
+      "longitude": 85.0985
+    },
+    "Punjab": {
+      "latitude": 31.1471,
+      "longitude": 75.3412
+    },
+    "Rajasthan": {
+      "latitude": 27.0238,
+      "longitude": 74.2176
+    },
+    "Sikkim": {
+      "latitude": 27.5330,
+      "longitude": 88.5126
+    },
+    "Tamil Nadu": {
+      "latitude": 11.1271,
+      "longitude": 78.6569
+    },
+    "Telangana": {
+      "latitude": 17.1232,
+      "longitude": 79.2085
+    },
+    "Tripura": {
+      "latitude": 23.8437,
+      "longitude": 91.2866
+    },
+    "Uttar Pradesh": {
+      "latitude": 26.8467,
+      "longitude": 80.9462
+    },
+    "Uttarakhand": {
+      "latitude": 30.0668,
+      "longitude": 79.0193
+    },
+    "West Bengal": {
+      "latitude": 22.9868,
+      "longitude": 87.8550
+    }
+  }
+  
